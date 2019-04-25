@@ -24,7 +24,7 @@ func _input(event):
 			datetime[key] = str(datetime[key]).pad_zeros(2)
 
 		var error := image.save_png(
-				"user://editor_{year}-{month}-{day}_{hour}:{minute}:{second}.png" \
+				"user://editor_{year}-{month}-{day}_{hour}.{minute}.{second}.png" \
 						.format(datetime)
 		)
 
