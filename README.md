@@ -1,5 +1,13 @@
 # Godot Editor Screenshooter
 
+___
+
+**Note:** Godot 3.2 and later can already take screenshots of the editor. Use
+**Editor > Take Screenshot** or press <kbd>Ctrl + F12</kbd>. You don't need to
+install this plugin anymore, although its code is still available for reference.
+
+___
+
 Take screenshots of the editor viewport. The main use case is taking screenshots
 of the editor whose window size is larger than your display.
 
@@ -18,7 +26,7 @@ of the editor whose window size is larger than your display.
 
 - Press <kbd>F12</kbd> anywhere in the editor to take a screenshot. The
   screenshot will be located in the project data directory, which you can open
-  using **Project → Open Project Data Folder**.
+  using **Project > Open Project Data Folder**.
 
 ## License
 
