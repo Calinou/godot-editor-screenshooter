@@ -22,7 +22,7 @@ of the editor whose window size is larger than your display.
 
 ## License
 
-Copyright © 2019 Hugo Locurcio and contributors
+Copyright © 2019-2020 Hugo Locurcio and contributors
 
 Unless otherwise specified, files in this repository are licensed under
 the MIT license; see [LICENSE.md](LICENSE.md) for more information.
